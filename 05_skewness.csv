@@ -1,0 +1,8 @@
+﻿Feature,Nonmissing_n,Unique_values,Skewness,Interpretation
+has_children,12684,2,0.34864376945534997,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+toCoupon_GEQ5min,12684,1,,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+toCoupon_GEQ15min,12684,2,-0.24789027283570705,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+toCoupon_GEQ25min,12684,2,2.351804763340525,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+direction_same,12684,2,1.3893661107484097,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+direction_opp,12684,2,-1.3893661107484097,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.
+Y,12684,2,-0.27636373661831765,Binary indicator/label: skewness reflects prevalence; use the class/frequency table.

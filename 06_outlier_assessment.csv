@@ -1,0 +1,2 @@
+﻿Feature,Assessment,Nonmissing_n,Unique_values,Q1,Q3,IQR,Lower_Fence,Upper_Fence,Flagged_Count,Flagged_Percent,Notes
+Dataset,Not applicable - IQR not performed,,,,,,,,,,"No genuine continuous numeric predictors are present. Temperature is an ordinal category (30-54, 55-79, 80+); the remaining numeric fields are binary flags or the target. IQR fences would be meaningless."

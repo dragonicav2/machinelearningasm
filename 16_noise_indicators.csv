@@ -1,0 +1,7 @@
+﻿Indicator,Count,Interpretation
+Exact duplicate rows,74,May be duplicates or repeated exposures; source provenance is needed.
+Predictor-identical rows with conflicting Y,46,"Repeated predictor profile with differing outcome; may be a valid separate exposure or a recording issue, so source context is needed."
+Whitespace-only string cells,0,May encode missing values.
+String cells with leading/trailing whitespace,0,Can split semantically identical labels.
+Observed categories below 1% frequency,9,Valid rare categories must not be removed automatically.
+Label noise verifiable from this CSV,0,Cannot confirm incorrect labels without trusted outcome review or repeated adjudication.

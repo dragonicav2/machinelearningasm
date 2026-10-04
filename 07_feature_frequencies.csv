@@ -1,0 +1,130 @@
+﻿Feature,Value,Count,Percent_of_all_rows
+destination,No Urgent Place,6283,49.535
+destination,Home,3237,25.52
+destination,Work,3164,24.945
+passanger,Alone,7305,57.592
+passanger,Friend(s),3298,26.001
+passanger,Partner,1075,8.475
+passanger,Kid(s),1006,7.931
+weather,Sunny,10069,79.383
+weather,Snowy,1405,11.077
+weather,Rainy,1210,9.54
+temperature,80+,6528,51.466
+temperature,55-79,3840,30.274
+temperature,30-54,2316,18.259
+time,6PM,3230,25.465
+time,7AM,3164,24.945
+time,10AM,2275,17.936
+time,2PM,2009,15.839
+time,10PM,2006,15.815
+coupon,Coffee House,3996,31.504
+coupon,Restaurant(<20),2786,21.965
+coupon,Carry out & Take away,2393,18.866
+coupon,Bar,2017,15.902
+coupon,Restaurant(20-50),1492,11.763
+expiration,1d,7091,55.905
+expiration,2h,5593,44.095
+gender,Female,6511,51.332
+gender,Male,6173,48.668
+age,21,2653,20.916
+age,26,2559,20.175
+age,31,2039,16.075
+age,50plus,1788,14.096
+age,36,1319,10.399
+age,41,1093,8.617
+age,46,686,5.408
+age,below21,547,4.313
+maritalStatus,Married partner,5100,40.208
+maritalStatus,Single,4752,37.465
+maritalStatus,Unmarried partner,2186,17.234
+maritalStatus,Divorced,516,4.068
+maritalStatus,Widowed,130,1.025
+has_children,0,7431,58.586
+has_children,1,5253,41.414
+education,Some college - no degree,4351,34.303
+education,Bachelors degree,4335,34.177
+education,Graduate degree (Masters or Doctorate),1852,14.601
+education,Associates degree,1153,9.09
+education,High School Graduate,905,7.135
+education,Some High School,88,0.694
+occupation,Unemployed,1870,14.743
+occupation,Student,1584,12.488
+occupation,Computer & Mathematical,1408,11.101
+occupation,Sales & Related,1093,8.617
+occupation,Education&Training&Library,943,7.435
+occupation,Management,838,6.607
+occupation,Office & Administrative Support,639,5.038
+occupation,Arts Design Entertainment Sports & Media,629,4.959
+occupation,Business & Financial,544,4.289
+occupation,Retired,495,3.903
+occupation,Food Preparation & Serving Related,298,2.349
+occupation,Healthcare Practitioners & Technical,244,1.924
+occupation,Healthcare Support,242,1.908
+occupation,Community & Social Services,241,1.9
+occupation,Legal,219,1.727
+occupation,Transportation & Material Moving,218,1.719
+occupation,Architecture & Engineering,175,1.38
+occupation,Personal Care & Service,175,1.38
+occupation,Protective Service,175,1.38
+occupation,Life Physical Social Science,170,1.34
+occupation,Construction & Extraction,154,1.214
+occupation,Installation Maintenance & Repair,133,1.049
+occupation,Production Occupations,110,0.867
+occupation,Building & Grounds Cleaning & Maintenance,44,0.347
+occupation,Farming Fishing & Forestry,43,0.339
+income,$25000 - $37499,2013,15.87
+income,$12500 - $24999,1831,14.436
+income,$37500 - $49999,1805,14.231
+income,$100000 or More,1736,13.687
+income,$50000 - $62499,1659,13.079
+income,Less than $12500,1042,8.215
+income,$87500 - $99999,895,7.056
+income,$75000 - $87499,857,6.757
+income,$62500 - $74999,846,6.67
+car,(Missing),12576,99.149
+car,Scooter and motorcycle,22,0.173
+car,Mazda5,22,0.173
+car,do not drive,22,0.173
+car,crossover,21,0.166
+car,Car that is too old to install Onstar :D,21,0.166
+Bar,never,5197,40.973
+Bar,less1,3482,27.452
+Bar,1~3,2473,19.497
+Bar,4~8,1076,8.483
+Bar,gt8,349,2.751
+Bar,(Missing),107,0.844
+CoffeeHouse,less1,3385,26.687
+CoffeeHouse,1~3,3225,25.426
+CoffeeHouse,never,2962,23.352
+CoffeeHouse,4~8,1784,14.065
+CoffeeHouse,gt8,1111,8.759
+CoffeeHouse,(Missing),217,1.711
+CarryAway,1~3,4672,36.834
+CarryAway,4~8,4258,33.57
+CarryAway,less1,1856,14.633
+CarryAway,gt8,1594,12.567
+CarryAway,never,153,1.206
+CarryAway,(Missing),151,1.19
+RestaurantLessThan20,1~3,5376,42.384
+RestaurantLessThan20,4~8,3580,28.225
+RestaurantLessThan20,less1,2093,16.501
+RestaurantLessThan20,gt8,1285,10.131
+RestaurantLessThan20,never,220,1.734
+RestaurantLessThan20,(Missing),130,1.025
+Restaurant20To50,less1,6077,47.911
+Restaurant20To50,1~3,3290,25.938
+Restaurant20To50,never,2136,16.84
+Restaurant20To50,4~8,728,5.74
+Restaurant20To50,gt8,264,2.081
+Restaurant20To50,(Missing),189,1.49
+toCoupon_GEQ5min,1,12684,100.0
+toCoupon_GEQ15min,1,7122,56.149
+toCoupon_GEQ15min,0,5562,43.851
+toCoupon_GEQ25min,0,11173,88.087
+toCoupon_GEQ25min,1,1511,11.913
+direction_same,0,9960,78.524
+direction_same,1,2724,21.476
+direction_opp,1,9960,78.524
+direction_opp,0,2724,21.476
+Y,1,7210,56.843
+Y,0,5474,43.157

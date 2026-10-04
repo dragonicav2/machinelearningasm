@@ -1,0 +1,8 @@
+﻿Metric,Value,Definition
+Rows,12684,One recorded offer/context per row.
+Columns,26,Includes predictors and Y.
+Candidate predictors,25,All columns other than Y.
+Exact duplicate rows beyond first,74,Identical across every column.
+Rows with any missing field,12576,Incomplete records.
+Positive target rows,7210,"Y=1, accepted."
+Negative target rows,5474,"Y=0, not accepted."

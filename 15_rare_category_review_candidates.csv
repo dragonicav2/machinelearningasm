@@ -1,0 +1,10 @@
+﻿Feature,Value,Count,Percent_of_rows,Interpretation
+education,Some High School,88,0.694,Review candidate only; rarity is not proof of error.
+occupation,Production Occupations,110,0.867,Review candidate only; rarity is not proof of error.
+occupation,Building & Grounds Cleaning & Maintenance,44,0.347,Review candidate only; rarity is not proof of error.
+occupation,Farming Fishing & Forestry,43,0.339,Review candidate only; rarity is not proof of error.
+car,Scooter and motorcycle,22,0.173,Review candidate only; rarity is not proof of error.
+car,Mazda5,22,0.173,Review candidate only; rarity is not proof of error.
+car,do not drive,22,0.173,Review candidate only; rarity is not proof of error.
+car,crossover,21,0.166,Review candidate only; rarity is not proof of error.
+car,Car that is too old to install Onstar :D,21,0.166,Review candidate only; rarity is not proof of error.

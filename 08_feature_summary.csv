@@ -1,0 +1,27 @@
+﻿Feature,Nonmissing_n,Unique_nonmissing,Most_common_value,Most_common_count_including_missing,Most_common_percent_of_rows
+destination,12684,3,No Urgent Place,6283,49.535
+passanger,12684,4,Alone,7305,57.592
+weather,12684,3,Sunny,10069,79.383
+temperature,12684,3,80+,6528,51.466
+time,12684,5,6PM,3230,25.465
+coupon,12684,5,Coffee House,3996,31.504
+expiration,12684,2,1d,7091,55.905
+gender,12684,2,Female,6511,51.332
+age,12684,8,21,2653,20.916
+maritalStatus,12684,5,Married partner,5100,40.208
+has_children,12684,2,0,7431,58.586
+education,12684,6,Some college - no degree,4351,34.303
+occupation,12684,25,Unemployed,1870,14.743
+income,12684,9,$25000 - $37499,2013,15.87
+car,108,5,(Missing),12576,99.149
+Bar,12577,5,never,5197,40.973
+CoffeeHouse,12467,5,less1,3385,26.687
+CarryAway,12533,5,1~3,4672,36.834
+RestaurantLessThan20,12554,5,1~3,5376,42.384
+Restaurant20To50,12495,5,less1,6077,47.911
+toCoupon_GEQ5min,12684,1,1,12684,100.0
+toCoupon_GEQ15min,12684,2,1,7122,56.149
+toCoupon_GEQ25min,12684,2,0,11173,88.087
+direction_same,12684,2,0,9960,78.524
+direction_opp,12684,2,1,9960,78.524
+Y,12684,2,1,7210,56.843

@@ -1,0 +1,4 @@
+﻿Measure,Count,Percent_of_rows
+Exact duplicate rows beyond first,74,0.5834121728161463
+Rows with identical predictors but different Y,46,0.3626616209397666
+Predictor patterns with conflicting Y,23,
